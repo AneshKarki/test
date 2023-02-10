@@ -8,6 +8,7 @@ int main()
   scanf("%d", &kg);
   grm = kg * 1000;
   printf("therefore %d kg is equal to %d gram ", kg, grm);
-  getch();
-  return (0);
+  // getch();
+  // return (0);
+  // reshav
 }
